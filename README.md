@@ -1,1 +1,1 @@
-shell basics read me
+A project for Advanced Shell Navigation
